@@ -1,0 +1,460 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    Box-sizing: 'border-box';
+}
+
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.buscador {
+    width: 100%;
+    height: 48px;
+    position: absolute;
+    width: 1400px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+
+.buscador-img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.contenedor{
+    display: flex;
+    position: absolute;
+    width: 455px;
+    height: 75px;
+    left: 473px;
+    top: 69px;
+
+}
+.Ropa-mujer{
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    width: 232px;
+    height: 42.18px;
+    left: 473px;
+    top: 81px;
+
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40.0727px;
+    line-height: 49px;
+
+    color: #000000;
+}
+.rectangle {
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    width: 2.71px;
+    height: 67px;
+    left: 728.35px;
+    top: 69px;
+
+    background: #000000;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.parrafo-open{
+    position: absolute;
+    width: 179px;
+    height: 60px;
+    left: 749px;
+    top: 84px;
+
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+
+
+.header-desk {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    width: 1400px;
+    height: 260px;
+    left: 0px;
+    top: 158px;
+
+    background: #DFDFDF;
+}
+
+.img-header{
+    margin: 0%;
+    padding: 0%;
+    width: 1400px;
+    height: 260px;
+    left: 0px;
+    top: 158px;
+}
+
+.img-header-mob{
+    display: none;
+}
+
+.contenedor-2{
+    margin: 0%;
+    padding: 0%;
+    display:flex;
+    position: absolute;
+    width: 937.71px;
+    height: 121.73px;
+    left: 197px;
+    top: 483px;
+}
+
+.new-in{
+    width: 332px;
+    height: 109.45px;
+    left: 197px;
+    top: 495.27px;
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41.1237px;
+    line-height: 33px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.lino-parrafo {
+    border: 10px;
+    width: 332px;
+    height: 109.45px;
+    left: 197px;
+    top: 495.27px;
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41.1237px;
+    line-height: 33px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.parrafo3{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 503px;
+    height: 77px;
+    left: 596px;
+    top: 483px;
+    
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #000000;
+
+}
+
+
+/* Estilos Section 3 */
+
+.box1-desk{
+    display: flex;
+    position:relative;
+    width: 561px;
+    height: 591px;
+    left: 108px;
+    top: 627px;
+    background: #DFDFDF;
+}
+
+
+.box2-desk{
+    position: absolute;
+    display: flex;
+    width: 602px;
+    height: 593px;
+    left: 690px;
+    top: 625px;
+    
+    background: #FFFFFF;
+}
+
+.box3-desk{
+   
+    position: absolute;
+    width: 353px;
+    height: 365px;
+    left: 113px;
+    top: 1244px;
+    
+}
+
+.box4-desk{
+    display: flex;
+    position: absolute;
+    width: 803px;
+    height: 365px;  
+    left: 489px;
+    top: 1245px;
+
+    background: #FFFFFF;
+}
+
+.box5-desk{
+    display: flex;
+    position: absolute;
+    width: 803px;
+    height: 420px;
+    left: 114px;
+    top: 1647px;
+
+    background: #FFFFFF;
+}
+
+.box6-desk{
+    position: absolute;
+    display: flex;
+    width: 353px;
+    height: 420px;
+    left: 941px;
+    top: 1647px;
+
+    background: #FFFFFF;
+}
+
+.marcas{
+    position: absolute;
+    width: 298px;
+    height: 44px;
+    left: 551px;
+    top: 2190px;
+
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.carrusel {
+    position: absolute;
+    width: 1100px;
+    height: 70px;
+    left: 150px;
+    top: 2276px;
+    overflow-x: scroll;
+}
+
+.contenedor-3{
+    position: absolute;
+width: 853px;
+height: 77px;
+left: 273px;
+top: 2411px;
+
+font-family: 'Gotham';
+font-style: normal;
+font-weight: 325;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+}
+
+
+@media (max-width:761px) {
+    body{
+        position: relative;
+        width: 760px;
+        height: 5522px;
+        background:#FFFFFF
+    }
+
+    .contenedor{
+        position: absolute;
+        width: 455px;
+        height: 75px;
+        left: 127px;
+        top: 132px;
+    }
+    
+    .Ropa-mujer{
+        display: flex;
+        position: absolute;
+        width: 232px;
+        height: 42.18px;
+        left: 127px;
+        top: 144px;
+
+        font-family: 'Gotham';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40.0727px;
+        line-height: 49px;
+
+        color: #000000;
+    }
+
+    .rectangle{
+        position: absolute;
+        width: 2.71px;
+        height: 67px;
+        left: 382.35px;
+        top: 132px;
+
+        background: #000000;
+        transform: matrix(-1, 0, 0, 1, 0, 0);
+    }
+    .parrafo-open{
+        position: absolute;
+        width: 179px;
+        height: 60px;
+        left: 403px;
+        top: 147px;
+
+        font-family: 'Gotham';
+        font-style: normal;
+        font-weight: 325;
+        font-size: 18px;
+        line-height: 22px;
+
+        color: #000000;
+    }
+
+    .header-desk{
+        position: absolute;
+        width: 760px;
+        height: 760px;
+        left: 0px;
+        top: 223px;
+        background: #FFFFFF;
+        background-image: url("Assets/Img/bannermobile.jpg")
+        
+    }
+    .img-header{
+        display: none;
+    }
+    .img-header-mob{
+        display: flex;
+        width: 760px;
+        height: 760px;
+        left: 0px;
+        top: 223px;
+
+        background: #FFFFFF;
+    }
+    .contenedor-2{
+        position: absolute;
+        width: 515px;
+        height: 47.33px;
+        left: 123px;
+        top: 1036px;
+    }
+    .new-in{
+      display:none;
+    }
+
+    .box1-desk{
+        position: absolute;
+        width: 718px;
+        height: 728px;
+        left: 23px;
+        top: 1346px;
+
+        background: #DFDFDF;
+    }
+    .box2-desk{
+        position: absolute;
+        width: 718px;
+        height: 500px;
+        left: 22px;
+        top: 2097px;
+
+        background: #FFFFFF;
+    }
+
+
+    .box3-desk{
+        position: absolute;
+        display:flex;
+        width: 718px;
+        height: 728px;
+        left: 21px;
+        top: 2620px;
+
+        background: url(gif-mob.png);
+    }
+
+    .box4-desk{
+        position: absolute;
+        width: 718px;
+        height: 500px;
+        left: 22px;
+        top: 3369px;
+
+        background: #FFFFFF;
+    }
+
+    .box5-desk{
+        position: absolute;
+        width: 718px;
+        height: 728px;
+        left: 22px;
+        top: 3892px;
+
+        background: #FFFFFF;
+    }
+
+    .box6-desk{
+        position: absolute;
+        width: 718px;
+        height: 500px;
+        left: 21px;
+        top: 4641px;
+        
+
+        background: #FFFFFF;
+    }
+
+    .carrusel{
+        
+        position: absolute;
+        width: 673px;
+        height: 60px;
+        left: 45px;
+        top: 5188px;
+        overflow-x: scroll;
+
+    }
+
+    .marcas{
+        display: none;
+    }
+
+    .contenedor-3{
+        display: none;
+    }
+}
